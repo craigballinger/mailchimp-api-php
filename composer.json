@@ -1,0 +1,17 @@
+{
+    "name": "craigballinger/mailchimp-api-php",
+    "description": "PHP wrapper for v2 of Mailchimp's API",
+    "homepage": "https://github.com/craigballinger/mailchimp-api-php",
+    "authors": [
+        {
+            "name": "Craig Ballinger",
+            "email": "craig@pixelfusion.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "Mailchimp": "lib/" }
+    }
+}
